@@ -131,10 +131,10 @@ const handleClickTag = (tag) => {
 
   if (tag.url === 'scenes') {
     // 场景跳转逻辑：跳转到 /scenes/list/scene.{id}
-    window.location.href = `/scenes/list/scene.${tag.id}`
+    window.location.href = `./scenes/list/scene.${tag.id}`
   } else if (tag.url === 'categories') {
     // 分类跳转逻辑：跳转到 /categories/list/category.{id}
-    window.location.href = `/categories/list/category.${tag.id}`
+    window.location.href = `./categories/list/category.${tag.id}`
   }
 }
 
