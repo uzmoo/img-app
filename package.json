@@ -1,0 +1,27 @@
+{
+  "name": "img-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "npm run side && vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "sync": "node scripts/sync-data.js",
+    "side": "node scripts/generate-sidebar.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^25.6.2",
+    "element-plus": "^2.14.0",
+    "fs-extra": "^11.3.5",
+    "unplugin-vue-components": "^32.0.0",
+    "vitepress": "^1.6.4"
+  },
+  "dependencies": {
+    "vue-router": "^5.0.6"
+  }
+}

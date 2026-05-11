@@ -1,0 +1,92 @@
+[
+  {
+    "id": 5001,
+    "name": "二次元",
+    "description": "动漫、插画风格",
+    "status": true
+  },
+  {
+    "id": 5002,
+    "name": "夏日",
+    "description": "夏天、阳光、海滩风格",
+    "status": true
+  },
+  {
+    "id": 10003,
+    "name": "秋日",
+    "description": "秋天、落叶、金黄色调",
+    "status": true
+  },
+  {
+    "id": 15004,
+    "name": "居家",
+    "description": "家庭、生活化风格",
+    "status": true
+  },
+  {
+    "id": 20005,
+    "name": "复古",
+    "description": "怀旧、老电影质感",
+    "status": true
+  },
+  {
+    "id": 20006,
+    "name": "赛博朋克",
+    "description": "霓虹灯、未来科技感",
+    "status": true
+  },
+  {
+    "id": 20007,
+    "name": "极简",
+    "description": "简约、留白、干净",
+    "status": true
+  },
+  {
+    "id": 20008,
+    "name": "职场",
+    "description": "商务、办公风格",
+    "status": true
+  },
+  {
+    "id": 20009,
+    "name": "运动",
+    "description": "健身、户外活动",
+    "status": true
+  },
+  {
+    "id": 20010,
+    "name": "古风",
+    "description": "汉服、传统建筑",
+    "status": true
+  },
+  {
+    "id": 20011,
+    "name": "校园",
+    "description": "学生、教室、青春",
+    "status": true
+  },
+  {
+    "id": 20012,
+    "name": "夜景",
+    "description": "夜晚、灯光、城市夜色",
+    "status": true
+  },
+  {
+    "id": 20013,
+    "name": "黑白",
+    "description": "单色、黑白摄影",
+    "status": true
+  },
+  {
+    "id": 20014,
+    "name": "胶片",
+    "description": "胶卷质感、颗粒感",
+    "status": true
+  },
+  {
+    "id": 20015,
+    "name": "梦幻",
+    "description": "柔光、朦胧、唯美",
+    "status": true
+  }
+]
